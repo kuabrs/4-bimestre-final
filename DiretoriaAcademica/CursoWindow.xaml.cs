@@ -79,6 +79,7 @@ namespace DiretoriaAcademica
                 txtid.Text = obj.id.ToString();
                 txtnome.Text = obj.nome;
                 txtsigla.Text = obj.sigla;
+                txtiddiretoria.Text = obj.idDiretoria.ToString();
             }
         }
     }

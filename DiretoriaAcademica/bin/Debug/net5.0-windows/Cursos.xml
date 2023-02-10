@@ -1,9 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfCurso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Curso>
-    <id>12</id>
-    <nome>info</nome>
-    <sigla>in</sigla>
-    <idDiretoria>1</idDiretoria>
-  </Curso>
-</ArrayOfCurso>
+<ArrayOfCurso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
