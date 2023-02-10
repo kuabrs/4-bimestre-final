@@ -22,6 +22,7 @@ namespace DiretoriaAcademica
         public List_Prof_DiretoriaWindow()
         {
             InitializeComponent();
+            listDiretoria.ItemsSource = nDiretoria.Listar();
         }
 
         private void buttonlist(object sender, RoutedEventArgs e)
@@ -30,7 +31,7 @@ namespace DiretoriaAcademica
             {
                 Diretoria d = (Diretoria)listDiretoria.SelectedItem;
                 listProfessores.ItemsSource = null;
-                listProfessores.ItemsSource = nCurso.Listar(d);
+                listProfessores.ItemsSource = nProfessor.Listar(d);
             }
             else
                 MessageBox.Show("É preciso selecionar uma diretoria");

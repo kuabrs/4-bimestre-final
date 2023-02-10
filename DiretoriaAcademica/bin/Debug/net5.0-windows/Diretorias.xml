@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfDiretoria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Diretoria>
-    <id>12</id>
-    <sigla>dt</sigla>
-    <nome>diatinf</nome>
-  </Diretoria>
-  <Diretoria>
-    <id>12</id>
-    <sigla>12</sigla>
-    <nome>das</nome>
+    <id>1</id>
+    <sigla>d</sigla>
+    <nome>dia</nome>
   </Diretoria>
 </ArrayOfDiretoria>

@@ -2,8 +2,8 @@
 <ArrayOfProfessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Professor>
     <id>12</id>
-    <nome>12</nome>
-    <matricula>12</matricula>
-    <idDiretoria>12</idDiretoria>
+    <nome>gil</nome>
+    <matricula>bert</matricula>
+    <idDiretoria>1</idDiretoria>
   </Professor>
 </ArrayOfProfessor>

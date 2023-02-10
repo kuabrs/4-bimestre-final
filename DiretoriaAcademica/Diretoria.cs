@@ -13,7 +13,7 @@ namespace DiretoriaAcademica
         public string nome { get; set; }
         public override string ToString()
         {
-            return $"ID: {id} - Nome: {nome} - Sigla: {sigla} ";
+            return $"Id: {id} - Nome: {nome} - Sigla: {sigla} ";
 
         }
     }
