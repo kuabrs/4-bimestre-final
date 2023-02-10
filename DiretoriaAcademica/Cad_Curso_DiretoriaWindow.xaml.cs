@@ -22,6 +22,7 @@ namespace DiretoriaAcademica
         public Cad_Curso_DiretoriaWindow()
         {
             InitializeComponent();
+            listDiretoria.ItemsSource = nDiretoria.Listar();
         }
 
         private void buttonlist(object sender, RoutedEventArgs e)
