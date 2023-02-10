@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCurso xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Curso>
+    <id>12</id>
+    <nome>sd</nome>
+    <sigla>ads</sigla>
+    <idDiretoria>12</idDiretoria>
+  </Curso>
+  <Curso>
+    <id>12</id>
+    <nome>sd</nome>
+    <sigla>ads</sigla>
+    <idDiretoria>12</idDiretoria>
+  </Curso>
+  <Curso>
+    <id>12</id>
+    <nome>sd</nome>
+    <sigla>ads</sigla>
+    <idDiretoria>12</idDiretoria>
+  </Curso>
+</ArrayOfCurso>
